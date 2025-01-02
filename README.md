@@ -11,7 +11,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/marcelorrodrigues/"> <img src="https://github.com/user-attachments/assets/1fd731d8-3e39-4f4d-bbde-4bf8f83d280e" alt="LinkedIn" width="40px" height="40px"/></a>
-	<a href="https://www.instagram.com/marcelorruys/"> <img src="https://github.com/user-attachments/assets/c4904066-2712-47f5-8afd-dd08072f84b9" alt="Instagram" width="40px" height="40px"/></a>
+<!-- <a href="https://www.instagram.com/marcelorruys/"> <img src="https://github.com/user-attachments/assets/c4904066-2712-47f5-8afd-dd08072f84b9" alt="Instagram" width="40px" height="40px"/></a> -->
 </p>
 	
 <p align="center">📗Quanto mais aprendo, mais me torno 🍀</p>
